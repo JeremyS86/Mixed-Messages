@@ -1,4 +1,4 @@
-![Mixed messages](D:\Projects\Mixed-Messages\images\Mixed-Messages2.jpg)
+![Mixed messages](images\Mixed-Messages2.jpg)
 
 # __Project - *Mixed Messages*__ (jokes) 
 
