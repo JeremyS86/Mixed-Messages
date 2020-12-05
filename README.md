@@ -1,4 +1,4 @@
-![](images\mixedmessagesbanner.fw_.png)
+![](images\Mixed-Messages2.jpg)
 
 # __Project - *Mixed Messages*__ (jokes) 
 
