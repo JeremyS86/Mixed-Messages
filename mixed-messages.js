@@ -5,14 +5,9 @@ randomJokes = [
     ['I got fired from my job at the bank today...', 'An old lady came in and asked me to check her balance, so I pushed her over.']
 ]
 
-const punchLine = () => {
-    const punchLine = console.log(randomJokes[randomNum][1]);
-    return punchLine;
-}
-
-
+const punchLine = () => console.log(randomJokes[randomNum][1]);
+    
 const randomNum = Math.floor(Math.random() * 4);
-
 
 const message = randNum => {
     console.log(randomJokes[randNum][0]);
