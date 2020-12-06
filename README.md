@@ -23,3 +23,11 @@ Languages/Resources used:
 And then it hit me.
 * I got fired from my job at the bank today...
 An old lady came in and asked me to check her balance, so I pushed her over.
+
+Sample Javascript code:
+```JAVASCRIPT
+const message = randNum => {
+    console.log(randomJokes[randNum][0]);
+    setTimeout(punchLine, 3000);
+}
+```
